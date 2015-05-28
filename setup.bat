@@ -7,4 +7,5 @@ git config --global alias.df diff
 git config --global alias.dc "diff --cache"
 git config --global alias.ci commit
 git config --global alias.co checkout
+git config --global push.default simple
 
