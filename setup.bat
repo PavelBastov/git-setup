@@ -8,4 +8,5 @@ git config --global alias.dc "diff --cache"
 git config --global alias.ci commit
 git config --global alias.co checkout
 git config --global push.default simple
+git config --global alias.br branch
 
