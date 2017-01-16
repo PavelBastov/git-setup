@@ -1,3 +1,3 @@
 # Setup for a fresh git installation
 
-Configure username, email, and a bunch of aliases.
+Configure the username, email, and a bunch of aliases.
